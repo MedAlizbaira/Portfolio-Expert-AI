@@ -11,7 +11,7 @@ const Contact = () => {
       </p>
       <h2 className="font-titleFont text-5xl font-semibold"></h2>
       <p className="max-w-[600px] text-center text-textDark">
-      Nous sommes ravis d'établir le contact avec vous ! Si vous avez des questions, des commentaires ou si vous souhaitez discuter de collaborations potentielles, n'hésitez pas à nous contacter. Notre équipe d'experts est là pour répondre à vos demandes.
+      Nous sommes ravis détablir le contact avec vous ! Si vous avez des questions, des commentaires ou si vous souhaitez discuter de collaborations potentielles, nhésitez pas à nous contacter. Notre équipe dexperts est là pour répondre à vos demandes.
       </p>
 
       <a href="mailto:Mohamed@gmail.com">

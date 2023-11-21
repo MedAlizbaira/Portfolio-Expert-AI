@@ -42,7 +42,7 @@ const About = () => {
               <span className="text-textGreen">
                 <AiFillThunderbolt />
               </span>
-              Analyse Éthique de l'IA
+              Analyse Éthique de lIA
             </li>
             <li className="flex items-center gap-2">
               <span className="text-textGreen">
@@ -84,7 +84,7 @@ const About = () => {
               <span className="text-textGreen">
                 <AiFillThunderbolt />
               </span>
-              Audit Éthique de l'IA
+              Audit Éthique de lIA
             </li>
           </ul>
         </div>
