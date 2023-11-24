@@ -13,11 +13,7 @@ const About = () => {
       <div className="flex flex-col lgl:flex-row gap-16">
         <div className="w-full lgl:w-2/3 text-base text-textDark font-medium flex flex-col gap-4">
           <p>
-            Hello! My name is  Mohamed and I enjoy creating things that
-            live on the internet. My interest in web development started back in
-            2012 when I decided to try editing custom Tumblr themes — turns out
-            hacking together a custom reblog button taught me a lot about HTML &
-            CSS!
+           Je suis un développer  passionné par les nouvelles technologies, en particulier l'intelligence artificielle. En tant que développeur spécialisé dans le traitement du langage naturel, j'ai contribué à des projets visant à améliorer la compréhension automatique du langage humain. Mon intérêt pour l'éthique de l'IA me pousse à m'impliquer dans des discussions sur la responsabilité des algorithmes. En dehors de ma vie professionnelle, je suis un amateur de science-fiction et je m'intéresse aux implications sociales de la technologie. Convaincu que l'IA peut façonner positivement notre avenir, je suis ouvert aux échanges et aux collaborations dans ce domaine fascinant
           </p>
           <p>
             Fast-forward to today, and I had the privilege of working at an
